@@ -1,0 +1,19 @@
+//////////////////////////////////////////////////////////////////////
+// License for NADI-2022 Dataset
+//////////////////////////////////////////////////////////////////////
+
+Copyright 2022 The University of British Columbia, Canada. All Rights Reserved.
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-
+NoDerivatives 4.0 International License.
+(https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+If you use this resource, cite:
+
+Muhammad Abdul-Mageed, Chiyu Zhang, Abdelrahim Elmadany, Houda Bouamor, and Nizar Habash.
+The Nuanced Arabic Dialect Identification Shared Task.
+In Proceedings of the Seventh Workshop for Arabic Natural Language Processing 
+at EMNLP 2022, Abu Dhabi, 2022.
+
+Please note that the final bibliographic entry for the Shared Task Overview paper to be cited will be available upon the publication of WANLP 2022 proceedings.
+//////////////////////////////////////////////////////////////////////
