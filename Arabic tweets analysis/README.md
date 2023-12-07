@@ -1,7 +1,7 @@
 # Arabic tweets for emotion classification: positive, negative, neutral
 NLP projects competation provided by NADIshared task 2022
 Sentiment analysis of country-level Arabic. A total of 5,000 tweets covering ten Arab countries (involving both MSA and dialects) manually labeled with tags from the set {positive, negative, neutral}. The dataset is split into 1,500 tweets for training (TRAIN), 500 tweets for development (DEV), and 3,000 tweets for test (TEST). We intentionally provide a small training dataset to encourage various approaches including `few-shot
-My_team (ISL-aast) acheive 7 ISL_AAST f1_score of (70.55%) accuracy of( 64.97%) 
+My_team (ISL-aast) acheives f1_score of (70.55%) accuracy of( 64.97%)  
 
  1) Pre-processing steps: 
 
