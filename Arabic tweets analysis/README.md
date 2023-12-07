@@ -1,5 +1,7 @@
 # Arabic tweets for emotion classification: positive, negative, neutral
-NLP projects 
+NLP projects competation provided by NADIshared task 2022
+Sentiment analysis of country-level Arabic. A total of 5,000 tweets covering ten Arab countries (involving both MSA and dialects) manually labeled with tags from the set {positive, negative, neutral}. The dataset is split into 1,500 tweets for training (TRAIN), 500 tweets for development (DEV), and 3,000 tweets for test (TEST). We intentionally provide a small training dataset to encourage various approaches including `few-shot
+My_team (ISL-aast) acheive 7 ISL_AAST f1_score of (70.55%) accuracy of( 64.97%) 
 
  1) Pre-processing steps: 
 
@@ -98,3 +100,31 @@ These adapter compositions showcase the flexibility and versatility of the trans
 4. Final Evaluation and Save Results:
    - Evaluate the ensemble predictions on the development dataset.
    - Save the results, such as accuracy, in a file or print them for analysis.
+
+If anyone want use this dataset please cite:
+@inproceedings{abdul-mageed-etal-2022-nadi,
+    title = "{NADI} 2022: The Third Nuanced {A}rabic Dialect Identification Shared Task",
+    author = "Abdul-Mageed, Muhammad  and
+      Zhang, Chiyu  and
+      Elmadany, AbdelRahim  and
+      Bouamor, Houda  and
+      Habash, Nizar",
+    editor = "Bouamor, Houda  and
+      Al-Khalifa, Hend  and
+      Darwish, Kareem  and
+      Rambow, Owen  and
+      Bougares, Fethi  and
+      Abdelali, Ahmed  and
+      Tomeh, Nadi  and
+      Khalifa, Salam  and
+      Zaghouani, Wajdi",
+    booktitle = "Proceedings of the The Seventh Arabic Natural Language Processing Workshop (WANLP)",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates (Hybrid)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.wanlp-1.9",
+    doi = "10.18653/v1/2022.wanlp-1.9",
+    pages = "85--97",
+    abstract = "We describe the findings of the third Nuanced Arabic Dialect Identification Shared Task (NADI 2022). NADI aims at advancing state-of-the-art Arabic NLP, including Arabic dialects. It does so by affording diverse datasets and modeling opportunities in a standardized context where meaningful comparisons between models and approaches are possible. NADI 2022 targeted both dialect identification (Subtask 1) and dialectal sentiment analysis (Subtask 2) at the country level. A total of 41 unique teams registered for the shared task, of whom 21 teams have participated (with 105 valid submissions). Among these, 19 teams participated in Subtask 1, and 10 participated in Subtask 2. The winning team achieved F1=27.06 on Subtask 1 and F1=75.16 on Subtask 2, reflecting that both subtasks remain challenging and motivating future work in this area. We describe the methods employed by the participating teams and offer an outlook for NADI.",
+}
